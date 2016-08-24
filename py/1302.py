@@ -1,0 +1,1 @@
+l=sorted([input()for i in range(int(input()))]);print(max(l,key=l.count))
